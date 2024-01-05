@@ -3,7 +3,7 @@ The code uses Python and OpenCV and OpenCV Frontal Face Haarcascade to detect fa
 
 The project contains four python files:
 
- 1.  face_detection_image.py
+ 1.  face_detection.ipynb
 
  This file is used to only detect the face of a person from specified image. I had used a group pic image of people, make sure that the image should be at same location where the code is saved.
 
